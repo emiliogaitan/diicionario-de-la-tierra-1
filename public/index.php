@@ -26,7 +26,7 @@ session_start();
 </head>
 <nav>
     <div class="nav-wrapper z-depth-1 green">
-        <a href="#!" class="brand-logo rw">Diccionario de la Tierra</a>
+        <a href="#!" class="brand-logo rw">Diccionario de la Tierra.</a>
         <a href="#" data-activates="mobile-demo" class="button-collapse"></a>
         <ul class="right hide-on-med-and-down">
             <li><a href="index.php">Inicio</a></li>
