@@ -1,0 +1,126 @@
+.s {
+    border: 1px solid white;
+    left: 4px;
+
+}
+
+.s div {
+    padding: 1em;
+}
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.nava {
+    background-image: url("../img/StockSnap_V9NVF3LJ43.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.navaa {
+    background-image: url("../img/StockSnap_KGSTJH2CB7.jpg");
+    background-size: cover;
+    height: auto;
+    width: 100%;
+}
+
+.vaa {
+    background-image: url("../img/logo de mobile.png");
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+}
+
+.d {
+    background-color: rgba(200);
+}
+
+.r {
+    width: 100%;
+    display: inline-block !important;
+}
+
+.r1 {
+    width: 40%;
+    margin: 1em;
+    display: inline-block !important;
+}
+
+.gr {
+    font-size: 4em;
+}
+
+.rw {
+    margin-left: 16px;
+}
+
+.es {
+    padding: 1em;
+}
+
+.gd {
+    margin-top: 1em;
+}
+
+.black-text {
+    color: black !important;
+}
+
+.po {
+    position: fixed;
+    border: 2px solid black;
+    width: auto;
+    background-color: #2b2d2f;
+    color: white;
+    margin: 1em;
+}
+
+.po div {
+    padding: 1em;
+}
+
+.rr {
+    width: 100% !important;
+    display: inline-block !important;
+}
+
+.rr1 {
+    width: 44% !important;
+    margin: 1em !important;
+    display: inline-block !important;
+}
+
+.u {
+
+    position: absolute !important;
+}
+
+.ss {
+    width: 100%!important;
+    display: inline-block!important;
+}
+
+.ss1 {
+    width: 30% !important;
+    margin: 1em!important;
+    display: inline-block !important;
+}
+.i img{
+   margin: 1em;
+}
+
+.r3{
+    width: 20%!important;
+    display: inline-block;
+}
+.r4{
+    margin: 1em!important;
+}
+.r9{
+margin-top: 0%!important;
+}
+.r9 ul li{
+width: 10%!important;
+}

@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="046be998-ac47-4bdd-8ee5-f4092b812936" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;i class=&quot;material-icons&quot;&gt;menu&lt;/i&gt;</find>
+      <find>&lt;div class=&quot;center center-block i&quot;&gt;                         &lt;img src=&quot;Hackathon/A/Asbestos/asbestos/1.jpg&quot; alt=&quot;&quot;                              class=&quot;responsive-img z-depth-3 materialboxed&quot;&gt;                         &lt;img src=&quot;Hackathon/A/Asbestos/asbestos/2.jpg&quot; alt=&quot;&quot;                              class=&quot;responsive-img z-depth-3 materialboxed&quot;&gt;                     &lt;/div&gt;</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ingresar/definiendo/r.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/q.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/p.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/o.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/i.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/h.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/g.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/j.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/k.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/l.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/m.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/n.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/f.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/a.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/b.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/c.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/d.txt" />
+        <option value="$PROJECT_DIR$/ingresar/definiendo/e.txt" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/plantillas.php" />
+        <option value="$PROJECT_DIR$/css/css.css" />
+        <option value="$PROJECT_DIR$/seccion.php" />
+        <option value="$PROJECT_DIR$/cerrarcesion.php" />
+        <option value="$PROJECT_DIR$/css/diccionario.css" />
+        <option value="$PROJECT_DIR$/noinicio/Video Dictionary.php" />
+        <option value="$PROJECT_DIR$/Video Dictionary.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/e.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/d.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/c.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/b.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/l.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/k.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/j.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/i.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/h.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/g.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/f.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/p.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/o.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/m.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/u.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/t.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/s.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/r.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/q.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/z.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/y.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/x.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/v.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/a.php" />
+        <option value="$PROJECT_DIR$/ingresar/Abecedario/n.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Xampp\htdocs\curso\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Xampp\htdocs\curso\public\ingresar\definiendo" />
+      <recent name="C:\Xampp\htdocs\curso\public" />
+      <recent name="C:\Xampp\htdocs\curso\public\registro" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.j.php">
+    <configuration default="false" name="j.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:56643/public/ingresar/Abecedario/j.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.j.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.j.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="046be998-ac47-4bdd-8ee5-f4092b812936" name="Default" comment="" />
+      <created>1493469787684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493469787684</updated>
+      <workItem from="1493469796591" duration="2384000" />
+      <workItem from="1493478579160" duration="31842000" />
+      <workItem from="1493563827969" duration="10350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44576000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/r.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/q.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/p.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/o.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/i.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/h.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/g.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/j.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/k.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/l.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/m.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/n.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/f.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/e.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/d.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/b.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/definiendo/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/plantillas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="124" column="1" lean-forward="true" selection-start-line="124" selection-start-column="1" selection-end-line="128" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/diccionario.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/e.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="374" column="31" lean-forward="false" selection-start-line="374" selection-start-column="31" selection-end-line="374" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="394" column="31" lean-forward="false" selection-start-line="394" selection-start-column="31" selection-end-line="394" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="400" column="35" lean-forward="false" selection-start-line="400" selection-start-column="35" selection-end-line="400" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/b.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="405" column="31" lean-forward="false" selection-start-line="405" selection-start-column="31" selection-end-line="405" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/l.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="386" column="31" lean-forward="false" selection-start-line="386" selection-start-column="31" selection-end-line="386" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/k.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="328" column="35" lean-forward="false" selection-start-line="328" selection-start-column="35" selection-end-line="328" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/j.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="374" column="31" lean-forward="false" selection-start-line="374" selection-start-column="31" selection-end-line="374" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/i.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="369" column="31" lean-forward="false" selection-start-line="369" selection-start-column="31" selection-end-line="369" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/h.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="372" column="31" lean-forward="false" selection-start-line="372" selection-start-column="31" selection-end-line="372" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/g.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="372" column="31" lean-forward="false" selection-start-line="372" selection-start-column="31" selection-end-line="372" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/f.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="366" column="31" lean-forward="false" selection-start-line="366" selection-start-column="31" selection-end-line="366" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/p.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="380" column="31" lean-forward="false" selection-start-line="380" selection-start-column="31" selection-end-line="380" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/o.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="370" column="31" lean-forward="false" selection-start-line="370" selection-start-column="31" selection-end-line="370" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/m.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="372" column="31" lean-forward="false" selection-start-line="372" selection-start-column="31" selection-end-line="372" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/u.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="308" column="31" lean-forward="false" selection-start-line="308" selection-start-column="31" selection-end-line="308" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="402" column="31" lean-forward="false" selection-start-line="402" selection-start-column="31" selection-end-line="402" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/s.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="374" column="31" lean-forward="false" selection-start-line="374" selection-start-column="31" selection-end-line="374" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/r.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="344" column="32" lean-forward="false" selection-start-line="344" selection-start-column="32" selection-end-line="344" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/q.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="330" column="31" lean-forward="false" selection-start-line="330" selection-start-column="31" selection-end-line="330" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/z.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="290" column="31" lean-forward="false" selection-start-line="290" selection-start-column="31" selection-end-line="290" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/y.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="243" column="31" lean-forward="false" selection-start-line="243" selection-start-column="31" selection-end-line="243" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/x.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="292" column="31" lean-forward="false" selection-start-line="292" selection-start-column="31" selection-end-line="292" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/v.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="382" column="31" lean-forward="false" selection-start-line="382" selection-start-column="31" selection-end-line="382" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/n.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493574319940" expanded="true" signature="1236:1743" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="1282:1743" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="1480:1743" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="2051:2463" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="2099:2445" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="2148:2421" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="2524:2786" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="3094:3506" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="3142:3488" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="3191:3464" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="3567:4161" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="3604:4151" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="3670:4140" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="3690:3772" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="3707:3751" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="3792:4123" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="3809:3894" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="3911:4000" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="4017:4102" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="4221:5966" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="4249:5959" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="5999:7613" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="6027:7606" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="7655:12271" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="7682:9061" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="7752:7885" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="7920:8116" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="8172:9050" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="8234:8320" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="8251:8313" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="8336:8474" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="8522:9035" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="8619:8687" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="8784:8852" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="8948:9016" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="9088:10834" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="9158:9281" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="9316:9509" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="9565:10823" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="9702:10432" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="10480:10808" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="10566:10634" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="10721:10789" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="10861:12197" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="10931:11061" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="11096:11317" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="11168:11259" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="11186:11252" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="11373:12186" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="11435:11522" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="11453:11515" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="11667:12171" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="11760:11828" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="11922:11990" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="12084:12152" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="12477:13331" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="12555:12666" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="12709:12983" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="12781:12909" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="12836:12902" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="13047:13312" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="13460:18064" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="13483:14862" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="13553:13686" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="13721:13917" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="13973:14851" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="14035:14121" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="14052:14114" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="14137:14275" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="14323:14836" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="14420:14488" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="14585:14653" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="14749:14817" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="14885:16631" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="14955:15078" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="15113:15306" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="15362:16620" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="15499:16229" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="16277:16605" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="16363:16431" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="16518:16586" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="16654:17990" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="16724:16854" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="16889:17110" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="16961:17052" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="16979:17045" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="17166:17979" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="17228:17315" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="17246:17308" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="17460:17964" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="17553:17621" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="17715:17783" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="17877:17945" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="18266:19120" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="18344:18455" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="18498:18772" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="18570:18698" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="18625:18691" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="18836:19101" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="19253:20218" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="19311:20218" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="19324:20218" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="19448:20218" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="19530:20127" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="19864:19982" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="21203:21724" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="21231:21713" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="21759:22987" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="21787:22884" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="21813:22873" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="21850:22088" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="21972:22069" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="22135:22858" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="22206:22839" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="22231:22411" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="22267:22385" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="22436:22648" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="22472:22643" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="22673:22817" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="22756:22812" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="22919:22987" ph="..." />
+            <marker date="1493574319940" expanded="true" signature="22951:22987" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingresar/Abecedario/a.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Video Dictionary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4008">
+          <caret line="263" column="21" lean-forward="false" selection-start-line="263" selection-start-column="21" selection-end-line="263" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cerrarcesion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="299" column="27" lean-forward="true" selection-start-line="299" selection-start-column="27" selection-end-line="299" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seccion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="73" column="24" lean-forward="true" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

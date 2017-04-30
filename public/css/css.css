@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Light';
+    src: url('../fonts/Light/Roboto-Light.woff2'),
+    url('../fonts/Light/Roboto-Light.woff') format("woff"),
+    url('../fonts/Light/Roboto-Light.ttf') format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+.rs{
+    padding-top: 2em;
+}
+html{
+    font-family: 'Light', SansSerif!important;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Light', SansSerif;
+}
+.red{
+    color: red;
+}
+section {
+    color: white;
+    padding: 1em;
+    margin: 0;
+}
+.div{
+    margin-top: 1em;
+    padding: 2em;
+    width: 45%;
+    border: 1px solid white;
+}
+
+.div1{
+    padding: 1em;
+    width: auto;
+    margin: 1em;
+    border: 1px solid white;
+}
+footer{
+    margin-top: 2em;
+}
+.f {
+    font-size: 1.2em;
+}
+.alert{
+    color: white!important;
+    border-bottom: 1px solid white!important;
+}
+.enviado{
+    color: white!important;
+    border-bottom: 1px solid white!important;
+}
+.pds{
+    left: 6px;
+    position: fixed;
+}
